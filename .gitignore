@@ -1,0 +1,18 @@
+# Paket klasörleri
+node_modules/
+**/node_modules/
+
+# Gizli çevre değişkenleri
+.env
+**/.env
+
+# Geçici fotoğraflar ve çıktılar
+saved_photos/
+temp_photos/
+3lu/
+4lu/
+
+# Programlar ve kısayollar
+SumatraPDF.exe
+SumatraPDF-settings.txt
+*.lnk
